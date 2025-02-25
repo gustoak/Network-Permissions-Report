@@ -14,5 +14,7 @@ pip install -r requirements.txt
 
 Usage
 To run the script and collect folder permissions:
+```bash
 python src/permissions_collector.py
-
+```bash
+The report will be saved in the data folder as permissions_report.csv.
