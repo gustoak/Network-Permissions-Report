@@ -12,7 +12,8 @@ cd network-folder-permissions
 pip install -r requirements.txt
 ```
 
-Usage
+Usage:
+
 To run the script and collect folder permissions:
 ```bash
 python src/permissions_collector.py
