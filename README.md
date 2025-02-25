@@ -16,5 +16,5 @@ Usage
 To run the script and collect folder permissions:
 ```bash
 python src/permissions_collector.py
-
+```
 The report will be saved in the data folder as permissions_report.csv.
