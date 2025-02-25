@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ```
 
 Usage:
+
 To run the script and collect folder permissions:
 ```bash
 python src/permissions_collector.py
