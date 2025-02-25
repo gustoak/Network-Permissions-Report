@@ -7,8 +7,8 @@ This Python project collects folder permissions from both network drives and loc
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/network-folder-permissions.git
-cd network-folder-permissions
+git clone git@github.com:gustoak/Network-Permissions-Report.git
+cd Network-Permissions-Report
 pip install -r requirements.txt
 ```
 
