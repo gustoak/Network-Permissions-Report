@@ -10,7 +10,7 @@ Clone this repository and install the required dependencies:
 git clone https://github.com/yourusername/network-folder-permissions.git
 cd network-folder-permissions
 pip install -r requirements.txt
-
+```
 
 Usage
 To run the script and collect folder permissions:
